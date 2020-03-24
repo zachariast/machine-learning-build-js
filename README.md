@@ -1,4 +1,4 @@
-# Node Rest API
+# ML
 
 A simple Machine Learning app with build.js.
 
